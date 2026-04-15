@@ -1,6 +1,10 @@
 # The name of this project is University-Of-Barishal.  
 # In this project, I use only HTML language.  
 # Through this project, I learned many important topics of HTML.  
+## The Logo of my project is:
+
+<img src="https://www.bu.ac.bd/logo/main-logo-rounded.png" alt="University logo" height="400px" width="400px">
+
 ## What I learned:  
 
 1. How to organize a project.  
@@ -35,9 +39,9 @@
 
 1. list
 2. table
-3. segtion
+3. segment
 4. div
-5. text formatting
+5. text formatting tag
 6. img
 7. table + list + img + link
 8. link
