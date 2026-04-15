@@ -1,7 +1,7 @@
 # The name of this project is University-Of-Barishal.  
 # In this project, I use only HTML language.  
 # Through this project, I learned many important topics of HTML.  
-## The topics are:  
+## What I learned:  
 
 1. How to organize a project.  
 2. How to create a repository on GitHub.  
